@@ -1,0 +1,7 @@
+{
+  "name": "SpeakAI: English Voice Master",
+  "description": "A high-fidelity English learning application. Convert text to natural speech with download capabilities and engage in real-time voice conversations using Gemini 2.5 Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
